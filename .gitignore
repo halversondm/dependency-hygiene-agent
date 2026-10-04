@@ -1,0 +1,22 @@
+# Cloned repositories processed by the agents
+workspace/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# OS
+.DS_Store
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment and secrets
+.env
+.env.*

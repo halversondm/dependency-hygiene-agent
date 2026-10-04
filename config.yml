@@ -1,0 +1,12 @@
+slack_channel: "#dependency-updates"
+workdir: ./workspace
+
+repositories:
+  - url: https://github.com/halversondm/jolt-transform-web.git
+    default_branch: main
+  - url: https://github.com/halversondm/the-burritt-cup.git
+    default_branch: master
+  - url: https://github.com/halversondm/halversondm.git
+    default_branch: master
+  - url: https://github.com/halversondm/excel-database-loader.git
+    default_branch: main
